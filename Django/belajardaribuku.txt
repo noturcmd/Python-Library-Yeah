@@ -1,0 +1,13 @@
+
+
+
+Django ini saya pelajari dari buku 
+
+"Semua Bisa Menjadi Programmer Web Python Basic (django 3.2)"
+
+Buku tersebut ditulis oleh : 
+        1. Ir.Yuniar Supardi
+        2. Rahmat Arif MS, S.Kom
+        3. Asep Murtami, S.Kom
+
+

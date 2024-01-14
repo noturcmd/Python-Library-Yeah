@@ -1,0 +1,15 @@
+
+
+
+Harap gunakan Virtual Environment untuk menjalankan Django
+
+Caranya : 
+        1. Masuk ke cloning/folder repo ini dengan terminal
+        2. ketikkan py -m venv virt, lalu enter
+        3. ketikkan perintah virt/Scripts/Activate.ps1 untuk powershell, dan virt/
+           Scripts/Activate.bat untuk command prompt
+        4. Unduh library Django dengan perintah pip install Django, tunggu proses
+           mengunduh sampai selesai
+        5. Setelah selesai, masuk ke salah satu folder yang ingin dicoba (misal bab 
+           6) dengan perintah cd bab6, lalu ketikkan perintah py manage.py runserver
+        6. Buka alamat IP/server yang muncul pada terminal
